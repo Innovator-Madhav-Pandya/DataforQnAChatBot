@@ -8,7 +8,7 @@
             "title": "",
             "imageUrl": ""
         }
-	}
+	},
     {
       "qid": "QnABot.002",
       "a": "Create and administer your questions and answers using the Q and A Bot Content Designer UI. End users ask questions using the Lex web UI which supports voice or chat, or using Alexa devices for hands free voice interaction. ",
